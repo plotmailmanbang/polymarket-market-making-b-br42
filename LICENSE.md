@@ -1,4 +1,4 @@
-# 
+# automatic Polymarket Addon | custom-strategies + event-driven-trading offers the most advanced Polymarket addon, with custom-strategies and event-driven-trading. Ideal for
 
 
 
